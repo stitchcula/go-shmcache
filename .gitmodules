@@ -1,0 +1,6 @@
+[submodule "deps/libfastcommon"]
+	path = deps/libfastcommon
+	url = https://github.com/happyfish100/libfastcommon
+[submodule "deps/libshmcache"]
+	path = deps/libshmcache
+	url = https://github.com/happyfish100/libshmcache
